@@ -5,3 +5,6 @@
 ![](2.jpg)
 ![](3.jpg)
 
+## 🌟 Lịch sử tăng trưởng sao GitHub
+
+[![Star History Chart](https://api.star-history.com/svg?repos=hoangtuvungcao/loading-php-and-light-DDoS-protection&type=Date)](https://star-history.com/#hoangtuvungcao/loading-php-and-light-DDoS-protection&Date)
